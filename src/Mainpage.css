@@ -1,0 +1,24 @@
+.Mainpage {
+  background-image: url("heidelberg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  padding: 30px;
+}
+
+.content-mainpage {
+  margin: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.btn,
+p,
+h1 {
+  margin: 20px;
+}
+
+footer {
+  font-size: small;
+}
