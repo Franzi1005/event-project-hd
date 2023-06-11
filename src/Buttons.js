@@ -4,19 +4,29 @@ export default function Buttons() {
   return (
     <div>
       <div>
-        <button type="button" className="btn btn-primary">
-          Create an event
-        </button>
+        <a>
+          <button type="button" className="btn btn-primary">
+            Create an event
+          </button>
+        </a>
       </div>
       <div>
-        <button type="button" className="btn btn-primary">
-          Sign up for an Event
-        </button>
+        <a>
+          <button type="button" className="btn btn-primary">
+            Sign up for an Event
+          </button>
+        </a>
       </div>
       <div>
-        <button type="button" className="btn btn-primary">
-          Buy us coffee!
-        </button>
+        <a
+          href="https://www.buymeacoffee.com/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <button type="button" className="btn btn-primary">
+            Buy us coffee!
+          </button>
+        </a>
       </div>
     </div>
   );

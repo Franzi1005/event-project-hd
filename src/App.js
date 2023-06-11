@@ -1,7 +1,6 @@
 import "./App.css";
 import Mainpage from "./Mainpage";
 import "./heidelberg.jpg";
-import Buttons from "./Buttons";
 
 function App() {
   return (
