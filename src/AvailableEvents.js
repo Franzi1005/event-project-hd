@@ -8,6 +8,7 @@ export default function AvailableEvents() {
 
       <h5>Date: 12.06.2023</h5>
       <h5>Time: 08:00 pm</h5>
+      <button className="btn btn-primary">Attend</button>
     </div>
   );
 }
