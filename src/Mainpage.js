@@ -1,6 +1,8 @@
 import React from "react";
 import "./Mainpage.css";
 import Buttons from "./Buttons";
+import EventForm from "./EventForm";
+import AvailableEvents from "./AvailableEvents";
 
 export default function Mainpage() {
   return (
@@ -17,6 +19,8 @@ export default function Mainpage() {
           pariatur.
         </p>
         <Buttons />
+        <EventForm />
+        <AvailableEvents />
       </div>
     </div>
   );

@@ -19,7 +19,7 @@ export default function Buttons() {
       </div>
       <div>
         <a
-          href="https://www.buymeacoffee.com/"
+          href="https://www.buymeacoffee.com/chrisandfranzi"
           target="_blank"
           rel="noreferrer"
         >
