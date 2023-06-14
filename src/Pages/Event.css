@@ -1,0 +1,11 @@
+.Event {
+  margin: 30px;
+  text-align: left;
+  border-radius: 6px;
+  padding-top: 2px;
+  border: outset 1px black;
+}
+
+h5 {
+  padding-left: 22px;
+}
