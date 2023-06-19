@@ -1,10 +1,11 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
+import "./Buttons.css";
 
 export default function Buttons() {
   let navigate = useNavigate();
   return (
-    <div>
+    <div className="Buttons">
       <div>
         <a>
           <button

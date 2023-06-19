@@ -1,4 +1,5 @@
 import React from "react";
+import "./SignUpForm.css";
 
 export default function SignUpEvent() {
   return (
